@@ -12,7 +12,8 @@ Using AI, Bevii tags people, persons, organizations, and places associated with 
 
 ## web-server
 The web-server work is derived from Miguel Grinberg's Microblog work.(https://github.com/miguelgrinberg/microblog)
-Please see the HLD documentation in repository to proposed changes.
+Please see the HLD documentation in repository to proposed changes. 
+Repository: https://github.com/AI-Geeks-SEA/bevii-app)
 
 ## AI services
 The services required to tag images and text and generate image vector. The code is made serverless using fn-project framework. 

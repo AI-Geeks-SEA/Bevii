@@ -27,5 +27,5 @@ Every post is sent to Redis queue to call tagging and vector generation API. Thu
 ## MVP2
 
 ## Flutter code
-The flutter code is to be developed from scratch based on mockup (https://dev.bevii.co/public_htmml/preview.html)
+The flutter code is to be developed from scratch based on mockup (https://dev.bevii.co/public_html/preview.html)
 

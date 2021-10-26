@@ -18,7 +18,7 @@ Repository: https://github.com/AI-Geeks-SEA/bevii-app
 ## AI services
 The services required to tag images and text and generate image vector. The code is made serverless using fn-project framework. 
 
-## elastic Search
+## Elastic Search server
 Index file required for elastic search is mentioned in HLD. Instructions to setup ElasticSearch will be provided shortly.
 
 ## Redis
